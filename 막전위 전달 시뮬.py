@@ -18,7 +18,7 @@ class MainHub(QWidget):
         layout = QVBoxLayout()
         layout.setAlignment(Qt.AlignmentFlag.AlignCenter)
 
-        title = QLabel("NeuroEngineering Concept Simulator")
+        title = QLabel("MakJunWe Simulator")
         title.setStyleSheet("font-size: 26px; font-weight: bold; margin-bottom: 40px; color: #1A237E;")
         layout.addWidget(title)
 
